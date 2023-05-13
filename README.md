@@ -1,22 +1,14 @@
-<!--
-**yoonjikim/yoonjikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=yoonz&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=70&height=150)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonjikim%2Fhit-counter&count_bg=%23F6A04C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:ffc1b6,100:ffde9e&text=yoonz&fontSize=50&height=100&animation=twinkling&&fontColor=fffaf2)
+  
+<!--   ![yoonjikim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjikim&theme=graywhite&show_icons=false) -->
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjikim&layout=compact)](https://github.com/yoonjikim/github-readme-stats) -->
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonjikim%2Fhit-counter&count_bg=%23FFC1B6&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
   
 </div>
